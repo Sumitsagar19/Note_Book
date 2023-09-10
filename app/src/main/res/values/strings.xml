@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note Book</string>
+    <string name="open_menu">open menu\n</string>
+    <string name="this_is_the_content">This is the content</string>
+    <string name="timestamp">timestamp</string>
+    <string name="title">title</string>
+    <string name="addnote">Add New Note</string>
+    <string name="deleteIMage">Delete Image\n</string>
+    <string name="delete">Delete the note</string>
+    <string name="design">Design by @SumitSagar</string>
+    <string name="description">Description</string>
+    <string name="titled">Title</string>
+</resources>
